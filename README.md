@@ -9,6 +9,12 @@ All passwords:
 * are at least 12 characters in length (OWASP ASVS 4.0 - 2.1.1)
 * are in lower case (you need to transform password to lower case before check)
 
+## Usage
+
+```sh
+npm install --save @bitbar/owasp-unsafe-passwords
+```
+
 ## License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
