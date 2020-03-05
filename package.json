@@ -1,0 +1,25 @@
+{
+  "name": "@bitbar/owasp-unsafe-passwords",
+  "version": "1.0.0",
+  "description": "OWASP Unsafe Passwords",
+  "main": "top-10k.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitbar/owasp-unsafe-passwords.git"
+  },
+  "keywords": [
+    "owasp",
+    "owasp-10k",
+    "passwords",
+    "unsafe"
+  ],
+  "author": "Marek Sierociński <marek.sierocinski@bitbar.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitbar/owasp-unsafe-passwords/issues"
+  },
+  "homepage": "https://github.com/bitbar/owasp-unsafe-passwords#readme"
+}
